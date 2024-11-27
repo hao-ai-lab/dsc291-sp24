@@ -41,7 +41,6 @@ This class is an interdisciplinary class covering many up-to-date topics and dev
 
 The following courses are not prerequisites but highly preferred before you take this course:
 - DSC 204A (Scalable Data Analytics)
-- CSE 234 (Data Systems for Machine Learning)
 - DSC 240 (Machine Learning)
 
 

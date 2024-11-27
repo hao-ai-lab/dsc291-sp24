@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: DSC 291 Spring 2024 Staff
+description: CSE 234 Winter 2025 Staff
 ---
 
 # Staff

@@ -3,7 +3,7 @@ layout: page
 title: Office Hours
 nav_exclude: true
 description: >-
-    Spring 2024 Lecture and Office Hours Schedule
+    Winter 2025 Lecture and Office Hours Schedule
 ---
 
 # Office Hours

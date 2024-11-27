@@ -1,4 +1,4 @@
-# DSC 291 ML Systems Spring 2024
+# CSE 234 ML Systems Winter 2025
 
 ## How to build locally
 

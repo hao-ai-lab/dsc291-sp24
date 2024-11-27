@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: DSC 291 Spring 2024
+  name: CSE 234 Winter 2025
 ---
 
-# DSC 291: Machine Learning Systems
+# CSE 234: Machine Learning Systems
 
 {: .mb-2 }
-Instructor: Hao Zhang, UC San Diego, Spring 2024
+Instructor: Hao Zhang, UC San Diego, Winter 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
